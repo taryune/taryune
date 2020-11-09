@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Status](https://github-readme-stats.vercel.app/api?username=taryune&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taryune)
 <!--
