@@ -1,4 +1,9 @@
-![Status](https://github-readme-stats.vercel.app/api?username=taryune&count_private=true)
+<a href="https://github.com/taryune">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taryune&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/taryune/">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taryune&hide=java,html&layout=compact" />
+</a>
 
 <!--
 **taryune/taryune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
